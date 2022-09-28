@@ -1,6 +1,6 @@
 {
-    "server_local": "http://localhost:5000/",
-    "api_local": "getSomeDataArrayFromFile",
-    "server": "https://jsonplaceholder.typicode.com/",
-    "api":"todos"
+  "server_local": "//localhost:5001/",
+  "api_local": "getSomeDataArrayFromFile",
+  "server": "https://jsonplaceholder.typicode.com/",
+  "api": "todos"
 }
